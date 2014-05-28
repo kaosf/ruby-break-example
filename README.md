@@ -26,3 +26,7 @@ I've confirmed reproducing this error on;
 
 * Ruby 2.1.2p95
 * Ubuntu 14.04 amd64 (or 12.04 amd64)
+
+## Message
+
+I don't know how to use [Ruby Issue Tracking System](https://bugs.ruby-lang.org/). **HELP!**
